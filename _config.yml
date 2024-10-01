@@ -16,7 +16,7 @@ timezone: Asia/Saigon
 
 title: Yosakoi # the main title
 
-tagline: Where my dream starts. # it will display as the subtitle
+tagline: Hello! Xin chào! こんにちは！ Chào mừng tới với IT blogs của tôi. Để biết thêm về mình, hãy đọc thêm tại phần "About" nhé!!  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/461632581_502209082727858_8618224959395641709_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHyADqZw9_GJUE2Dn52M_EBi8eC1SrcJMmLx4LVKtwkyaVrR5h_ykVww0Qz1zdbNcZZZY5_ubjgticy4HI58vrN&_nc_ohc=toTYZKQel4wQ7kNvgG37ZaQ&_nc_ht=scontent.fhan2-5.fna&_nc_gid=AdtyVeHF__nxSCOJjmB4yUo&oh=00_AYBs4i2Mqur0wHOMub-iPOcEiBIIbK_XI7M-MASZLznoGA&oe=6701B245
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
