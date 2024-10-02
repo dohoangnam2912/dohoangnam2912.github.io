@@ -20,8 +20,6 @@ Nào, chúng ta cùng bắt đầu thôi!
 
 Neural Network - Mạng thần kinh, nghe đã có một chút gì đó liên quan tới bộ não con người rồi đúng không? Thật sự là vậy, các mô hình Neural network được lấy cảm hứng từ các tế bào thần kinh (Neural) trong bộ não con người. Bạn có thể nhìn thấy hình ảnh dưới đây để hiểu rõ hơn.
 
-![alt text](/images/neuralnetwork/braincell.png)
-
 Bạn có thể thấy ở hình ảnh trên, các dòng diện trong não chạy vào các chân Dendrites, đi qua tính toán ...
 
 Ngoài lề một chút, tuy rằng cho dù bạn có thể thấy các mô hình ngôn ngữ lớn hiện nay như chatGPT, Claude hay Perplexity cực kì thông minh đi chăng nữa. Chúng vẫn chỉ là một khối tính toán khổng lồ, **mô phỏng chỉ một phần nhỏ** trí lực của bộ não chúng ta. Tại sao tôi lại nói như vậy?  Vì theo người bố già trong lĩnh vực AI, Andrew Ng, cũng đã khẳng định điều tương tự: *Đến chính con người chúng ta còn không biết não bộ hoạt động như thế nào.* Việc có thể phát triển lên AGI (Artificial General Intelligence), có thể tạo ra một loại máy móc có thể tự suy nghĩ, lập luận những thứ mới mà con người không biết tới. Tuy nhiên, tương lai đó vẫn còn rất xa vời, và hi vọng rằng chúng ta có thể chiêm nghiệm được nó trong một tương lai không xa.
