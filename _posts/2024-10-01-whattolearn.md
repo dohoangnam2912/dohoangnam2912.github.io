@@ -2,10 +2,10 @@
 title: Vậy thì chúng ta sẽ học những gì vậy?
 date: 2024-10-01 21:37:00 +0700
 categories: [Chương 1]
-tags: [Kiến thức]     # TAG names should always be lowercase
+tags: [kiến thức]     # TAG names should always be lowercase
 ---
 
-# Vậy thì chúng ta sẽ học gì ?
+# Vậy thì chúng ta sẽ họcyyy gì ?
 
 Không thể thiếu được, cho dù bạn có không nhìn thấy ứng dụng của chúng trong thực tế của mình. Nhưng việc học kĩ những kiến thức căn bản sẽ là mấu chốt để bạn có thể tiếp tục xây dựng lâu đài kiến thức cho bản thân mình. Chúng mình sẽ đi từ những kiến thức nền tảng như:
 

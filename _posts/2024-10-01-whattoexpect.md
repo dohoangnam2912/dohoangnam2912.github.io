@@ -2,7 +2,7 @@
 title: Để học với mình dễ dàng hơn!
 date: 2024-10-01 21:10:00 +0700
 categories: [Chia sẻ bản thân]
-tags: [Cách tự học]     # TAG names should always be lowercase
+tags: [tự học]     # TAG names should always be lowercase
 ---
 
 
